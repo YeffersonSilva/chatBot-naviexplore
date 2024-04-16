@@ -1,6 +1,8 @@
 # Navi Explore Bot
 
-Navi Explore Bot es un asistente virtual desarrollado para Telegram que ayuda a turistas y residentes a encontrar los mejores lugares en ciudades de todo el mundo. Este bot es parte del proyecto Navi Esplore, una aplicación móvil que consolida información crucial sobre eventos locales, atracciones, alojamiento, transporte y otros servicios.
+Navi Explore Bot es un asistente virtual desarrollado para Telegram que ayuda a turistas y residentes a encontrar los mejores lugares en ciudades de todo el mundo. Este bot es parte del proyecto Navi Esplore, una aplicación móvil que consolida información crucial sobre eventos locales, atracciones, alojamiento, transporte y otros servicios. Este boot esta relacionado al repositorio [ConnectedTourism](https://github.com/YeffersonSilva/ConnectedTourism)
+
+
 
 ## Características
 
